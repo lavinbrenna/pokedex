@@ -1,0 +1,24 @@
+body {
+  background-color: rgb(217, 44, 54);
+  font-family: rooney-sans, sans-serif;
+  font-weight: 800;
+  font-style: normal;
+}
+
+.container {
+  background-color: rgb(217, 44, 54);
+}
+
+h1 {
+  font-family: marvin, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+#pokeSearch{
+  background-color: yellow;
+}
+ img{
+   max-height: 500%;
+   border: 10px solid skyblue;
+   background-color: white;
+ }
